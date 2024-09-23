@@ -6,7 +6,7 @@
 /*   By: nakagawashinta <nakagawashinta@student.    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/09/23 16:53:34 by nakagawashi       #+#    #+#             */
-/*   Updated: 2024/09/23 16:53:45 by nakagawashi      ###   ########.fr       */
+/*   Updated: 2024/09/23 17:06:15 by nakagawashi      ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
